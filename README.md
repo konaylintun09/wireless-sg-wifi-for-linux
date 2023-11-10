@@ -2,7 +2,7 @@
 
 This Repository for Wireless@SG public Wi-Fi configuration
 
-naungsai : Registers for a new Wireless@SG account to use the public wi-fi
+Naungsai : Registers for a new Wireless@SG account to use the public wi-fi
 ==========================================================================
 
 ## Dependencies
